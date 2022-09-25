@@ -1,37 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on </title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Sep 2022 14:35:27 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reflection</title>
-      <link>/tags/reflection/</link>
-      <pubDate>Tue, 13 Sep 2022 14:35:27 +0800</pubDate>
-      
-      <guid>/tags/reflection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>/tags/spring/</link>
-      <pubDate>Tue, 13 Sep 2022 14:35:27 +0800</pubDate>
-      
-      <guid>/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SpringMVC</title>
-      <link>/tags/springmvc/</link>
-      <pubDate>Tue, 13 Sep 2022 14:35:27 +0800</pubDate>
-      
-      <guid>/tags/springmvc/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - </title>
+        <link>/tags/</link>
+        <description>Tags - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 13 Sep 2022 14:35:27 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Reflection</title>
+    <link>/tags/reflection/</link>
+    <pubDate>Tue, 13 Sep 2022 14:35:27 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/tags/reflection/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Spring</title>
+    <link>/tags/spring/</link>
+    <pubDate>Tue, 13 Sep 2022 14:35:27 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/tags/spring/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>SpringMVC</title>
+    <link>/tags/springmvc/</link>
+    <pubDate>Tue, 13 Sep 2022 14:35:27 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/tags/springmvc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
